@@ -8,6 +8,7 @@
 -->
 
 # Demo - Communicate using Markdown
+This is an <h6> header
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
